@@ -1,1 +1,1 @@
-# react-starter-boilerplate-hmr
+# react-starter-boilerplate
